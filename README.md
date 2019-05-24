@@ -1,11 +1,11 @@
 # TacoLoco
 Taco Loco, a quick service fleet of taco trucks, is building a new mobile app to enable their customers to place orders for their delicious tacos.
 
-Code time estimate: 2.5 hours
+Code time estimate: 3.5 hours
 
 JUnit Test estimate: 1.0 hour
 
-Research(Javascript) estimate: 1.5 hours
+Research(Javascript, REST API) estimate: 4.5 hours
 
 Spring setup:
 
